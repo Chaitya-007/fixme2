@@ -1,4 +1,4 @@
-# fixme1: Running a Rust (Cargo) Project in GitHub Codespaces
+# fixme2: Running a Rust (Cargo) Project in GitHub Codespaces
 
 This guide explains how to run this Rust project in a GitHub Codespace without installing Rust or Cargo on your own device.
 
